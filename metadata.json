@@ -1,0 +1,8 @@
+{
+  "name": "Astarté",
+  "description": "Studio de clonage de sites de ressources éducatives piloté par Google Sheets.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
